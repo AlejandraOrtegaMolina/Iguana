@@ -1,0 +1,43 @@
+header{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+/* Cambio de color de fondo de barra de navegación*/
+.suricata{
+  background-color: #e83e8c;
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: #212529;
+}
+h2{
+  color:#fff;
+  text-align: center;
+}
+h5{
+  color:#212529;
+}
+
+.tarjetas{
+  background-color:#17a2b8;
+  height: 120px;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: #212529;
+}
+i{
+  color:white;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.nav-link{
+  color:#fff;
+}
+.col{
+  justify-content: center;
+}
